@@ -9,7 +9,7 @@ import Section5 from './Section5'
 import Section6 from './Section6'
 import Section7 from './Section7'
 import Footer from '../../components/Layouts/Footer'
-import { Route, Routes } from 'react-router-dom'
+// removed unused Route, Routes import
 
 const Home = () => {
   return (

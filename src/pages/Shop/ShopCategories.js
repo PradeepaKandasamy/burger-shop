@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Card } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import AppStore from '../../assets/shop/appstore.png';
 import GooglePlay from '../../assets/shop/googleplay.png';
 import EShop from '../../assets/shop/e-shop.png';
